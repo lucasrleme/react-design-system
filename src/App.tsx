@@ -1,8 +1,8 @@
 import './styles/global.css'
 
-function App() {
+export function App() {
   return (
     <h1>App</h1>
   )
 }
-export default App
+
